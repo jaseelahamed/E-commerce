@@ -1,0 +1,42 @@
+.img{
+    width: 500px;
+    height: 500px
+}
+.btn1{
+    width: 150px;
+    height: 50px;
+    margin: 50px;
+    max-width: 200px;
+    border-radius: 10px;
+    box-shadow: cadetblue;
+    color: rgb(248, 236, 236);
+    background-color:#59238F ;
+
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-right: 200px;
+    margin-top: 350px;
+}
+.btn1:hover{
+    background-color: #ff6600; /* Change the background color to a different attractive color */
+  color: #ffffff; /* Change the text color to a color that complements the background */
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3); /* Add a subtle box shadow for depth */
+  transform: scale(1.1);
+}
+.Row{
+    margin: 40px;
+}
+#dscription{
+ 
+    color: black;
+}
+#category{
+    color: #ff6600;
+    text-transform: uppercase;
+}
